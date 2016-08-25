@@ -28,4 +28,4 @@ then execute `python main.py` in src directory
 [4]: http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
 [5]: http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
 [6]: https://www.microsoft.com/en-us/download/details.aspx?id=48145
-[7]: www.sample-videos.com
+[7]: http://www.sample-videos.com
