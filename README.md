@@ -5,13 +5,13 @@ you need several modules in order to work with the code
   
 install them respectively
 
-0. moviepy [0]
-1. Numpy [1]
-2. OpenCV [2]
-3. Pillow [3]
-4. ScikitImage [4]
-5. Scipy [5]
-6. Microsoft Visual C++ Redistributable package [6]
+0. [moviepy] [0]
+1. [Numpy] [1]
+2. [OpenCV] [2]
+3. [Pillow] [3]
+4. [ScikitImage] [4]
+5. [Scipy] [5]
+6. [Microsoft Visual C++ Redistributable package] [6]
 
 ## Moviepy
 
